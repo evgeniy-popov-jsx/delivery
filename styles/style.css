@@ -291,7 +291,8 @@ img._active {
 @media (max-width: 760px) {
     .map__header {
         font-size: 30px;
-        width: 255px;
+        width: 100%;
+        text-align: center;
      }
 
      .map__inner {
